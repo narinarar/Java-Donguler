@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Donguler/Armstrong Sayi/Armstrong Sayi.iml" filepath="$PROJECT_DIR$/Donguler/Armstrong Sayi/Armstrong Sayi.iml" />
       <module fileurl="file://$PROJECT_DIR$/Donguler/CiftSayi/Cift.iml" filepath="$PROJECT_DIR$/Donguler/CiftSayi/Cift.iml" />
       <module fileurl="file://$PROJECT_DIR$/Donguler/Cift ve 4un Katlari/Cift ve 4un Katlari.iml" filepath="$PROJECT_DIR$/Donguler/Cift ve 4un Katlari/Cift ve 4un Katlari.iml" />
       <module fileurl="file://$PROJECT_DIR$/Donguler/Exponential Number/Exponential Number.iml" filepath="$PROJECT_DIR$/Donguler/Exponential Number/Exponential Number.iml" />
