@@ -17,11 +17,13 @@ N haneli bir sayının basamaklarının n’inci üstlerinin toplamı, sayının
         int basPow;
         int result = 0;
 
+        // Basamak sayısını bulma
         while (tempNum != 0) {
             tempNum /= 10;
             basNumber++;
         }
 
+        // Bir sayının son basamağını bulma
         tempNum = number;
         while (tempNum != 0) {
             basValue = tempNum % 10;
