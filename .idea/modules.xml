@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Donguler/Armstrong Sayi/Armstrong Sayi.iml" filepath="$PROJECT_DIR$/Donguler/Armstrong Sayi/Armstrong Sayi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Donguler/Asal Sayi/Asal Sayi.iml" filepath="$PROJECT_DIR$/Donguler/Asal Sayi/Asal Sayi.iml" />
       <module fileurl="file://$PROJECT_DIR$/Donguler/Atm/Atm.iml" filepath="$PROJECT_DIR$/Donguler/Atm/Atm.iml" />
       <module fileurl="file://$PROJECT_DIR$/Donguler/Basamak Sayi Toplami/Basamak Sayi Toplami.iml" filepath="$PROJECT_DIR$/Donguler/Basamak Sayi Toplami/Basamak Sayi Toplami.iml" />
       <module fileurl="file://$PROJECT_DIR$/Donguler/CiftSayi/Cift.iml" filepath="$PROJECT_DIR$/Donguler/CiftSayi/Cift.iml" />
